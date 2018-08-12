@@ -1,0 +1,13 @@
+.navbar {
+    font-family: 'New Rocker', cursive;
+    color: red;
+    background-color: black;
+    padding: 20px;
+    font-size: 36px;
+}
+
+#score {
+    font-family: 'New Rocker', cursive;
+    color: white;
+    font-size: 28px;
+}
